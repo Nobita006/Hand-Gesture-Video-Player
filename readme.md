@@ -6,7 +6,7 @@
 
 This project demonstrates a hand gesture-controlled video player using a webcam. The system uses hand gestures to perform various video control actions, such as play/pause, adjusting volume, fast forwarding, and rewinding. The gestures are recognized using Mediapipe's hand tracking module, and corresponding actions are triggered by simulating key presses using PyAutoGUI.
 
-## Demonstration
+## Demonstration - https://youtu.be/1MytSf-vbFE
 
 
 https://github.com/user-attachments/assets/f5178045-24f9-4ad4-b994-922066390aa3
